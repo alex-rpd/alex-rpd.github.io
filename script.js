@@ -129,6 +129,7 @@ async function writingAll(stringTarget, container) {
   }
 };
 
+
 async function write(text) {
   let index = 0;
   while (index < text.length) {
