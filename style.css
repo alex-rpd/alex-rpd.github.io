@@ -8,22 +8,22 @@ body {
   width: 100%;
 }
 
-.text {
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  width: 300px;
-  top: calc(50% - 100px);
-  left: calc(50% - 150px);
-}
+/*.text {*/
+/*  position: absolute;*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  height: 200px;*/
+/*  width: 300px;*/
+/*  top: calc(50% - 100px);*/
+/*  left: calc(50% - 150px);*/
+/*}*/
 
-.img {
-  display: inline-block;
-  height: 100px;
-  z-index: 100;
-}
+/*.img {*/
+/*  display: inline-block;*/
+/*  height: 100px;*/
+/*  z-index: 100;*/
+/*}*/
 
 
 .wrapper {
