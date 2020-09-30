@@ -316,5 +316,8 @@ a {
   height: 250px;
   transform: translateY(102%);
 }
-
+a{
+  text-decoration: none;
+  color: #0074D9;
+}
 /*burger menu*/
